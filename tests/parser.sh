@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 
 # Copyright (C) 2021-2026 Free Software Foundation, Inc.
 # Copyright (C) 2019 Red Hat, Inc.
